@@ -1,7 +1,4 @@
-package ejercicio02;
-
-import java.util.ArrayList;
-import java.util.List;
+package ejercicio02.defaultmethods;
 
 public class AgrupadorConArray implements Agrupador {
 

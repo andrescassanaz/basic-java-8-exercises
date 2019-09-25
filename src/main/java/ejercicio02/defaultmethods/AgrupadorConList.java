@@ -1,4 +1,4 @@
-package ejercicio02;
+package ejercicio02.defaultmethods;
 
 import java.util.ArrayList;
 import java.util.List;

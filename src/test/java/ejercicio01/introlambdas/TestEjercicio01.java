@@ -1,4 +1,4 @@
-package org.formacion;
+package ejercicio01.introlambdas;
 
 import static org.junit.Assert.*;
 

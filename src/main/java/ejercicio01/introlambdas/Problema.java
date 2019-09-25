@@ -1,4 +1,4 @@
-package ejercicio01;
+package ejercicio01.introlambdas;
 
 import java.util.Arrays;
 import java.util.Collections;

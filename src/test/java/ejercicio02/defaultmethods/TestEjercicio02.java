@@ -1,8 +1,6 @@
-package ejercicio02;
+package ejercicio02.defaultmethods;
 
 import org.junit.Test;
-
-import java.util.Arrays;
 
 import org.junit.Assert;
 
