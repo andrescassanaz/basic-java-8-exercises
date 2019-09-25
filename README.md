@@ -1,0 +1,1 @@
+Basic Java 8 exercises. Functional programming, lambdas and streams
